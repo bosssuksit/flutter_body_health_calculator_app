@@ -17,7 +17,7 @@ class _HomeUiState extends State<HomeUi> {
   //สร้างตัวแปรเก็บ widget
   List<Widget> ShowBody = [
     BmiUi(),
-    AboutUi(),
+    aboutUi(),
     BmrUi(),
   ];
 
